@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/continueShopping" android:title="continue Shopping" android:icon="@drawable/continue_shopping" app:showAsAction="always"/>
+    <item android:id="@+id/verifyOrder" android:title="verify order" android:icon="@drawable/verify" app:showAsAction="ifRoom"/>
+    <item android:id="@+id/declineOrder" android:title="decline order" android:icon="@drawable/decline" app:showAsAction="always"/>
+</menu>
